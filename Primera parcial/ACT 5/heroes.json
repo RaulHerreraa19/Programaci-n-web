@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "Spider-Man",
+        "poderes": [
+            "trepar paredes",
+            "sentido arácnido",
+            "reflejos sobrehumanos"
+        ],
+        "edad": 23,
+        "ciudad": "Nueva York"
+    },
+    {
+        "nombre": "Iron Man",
+        "poderes": [
+            "tecnología avanzada",
+            "ingeniero brillante",
+            "armadura poderosa"
+        ],
+        "edad": 35,
+        "ciudad": "Los Ángeles"
+    },
+    {
+        "nombre": "Wonder Woman",
+        "poderes": [
+            "fuerza sobrehumana",
+            "velocidad",
+            "vuelo"
+        ],
+        "edad": 28,
+        "ciudad": "Themyscira"
+    },
+    {
+        "nombre": "Batman",
+        "poderes": [
+            "inteligencia superior",
+            "lucha cuerpo a cuerpo",
+            "tecnología"
+        ],
+        "edad": 30,
+        "ciudad": "Gotham"
+    },
+    {
+        "nombre": "Superman",
+        "poderes": [
+            "fuerza sobrehumana",
+            "vuelo",
+            "visión calorífica"
+        ],
+        "edad": 33,
+        "ciudad": "Metropolis"
+    },
+    {
+        "nombre": "Flash",
+        "poderes": [
+            "velocidad sobrehumana",
+            "viajar en el tiempo",
+            "curación acelerada"
+        ],
+        "edad": 27,
+        "ciudad": "Central City"
+    },
+    {
+        "nombre": "Thor",
+        "poderes": [
+            "fuerza sobrehumana",
+            "control del trueno",
+            "vuelo"
+        ],
+        "edad": 1000,
+        "ciudad": "Asgard"
+    },
+    {
+        "nombre": "Hulk",
+        "poderes": [
+            "fuerza sobrehumana",
+            "regeneración",
+            "inmunidad mental"
+        ],
+        "edad": 38,
+        "ciudad": "Desconocida"
+    }
+]

@@ -1,0 +1,10 @@
+.header {
+    background-color: black;
+    color: white;
+}
+
+div .image {
+    width: 200px;
+    height: 300px;
+    border: solid 1px;
+}
